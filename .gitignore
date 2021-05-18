@@ -1,0 +1,22 @@
+/occ-node-app/node_modules
+/occ-react-app/node_modules
+
+/occ-react-app/.pnp
+/occ-react-app/.pnp.js
+
+# testing
+/occ-react-app/coverage
+
+# production
+/occ-react-app/build
+
+# misc
+/occ-react-app/.DS_Store
+/occ-react-app/.env.local
+/occ-react-app/.env.development.local
+/occ-react-app/.env.test.local
+/occ-react-app/.env.production.local
+
+/occ-react-app/npm-debug.log*
+/occ-react-app/yarn-debug.log*
+/occ-react-app/yarn-error.log*
