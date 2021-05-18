@@ -1,6 +1,6 @@
 # OCC Order Cart
 ## Setup
-1. Clone repo
+1. Clone repo using `git clone --recursive https://github.com/kesihain/occ-order-cart` <strong>Important</strong>
 2. Open root folder in terminal
 3. Run `./build-node.bat` in one terminal and `./build-react.bat` on another terminal
 4. App is now running on localhost:3000. 
