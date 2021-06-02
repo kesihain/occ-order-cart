@@ -1,4 +1,7 @@
 # OCC Order Cart
+## About
+Simple order cart where users can add orders to cart. Developed using node.js and Reactjs
+
 ## Setup
 1. Clone repo using `git clone --recursive https://github.com/kesihain/occ-order-cart` <strong>Important</strong>
 2. Open root folder in terminal
